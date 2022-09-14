@@ -7,8 +7,7 @@
    <a href="https://sptfy.com/Souify" target"blank_"><img src="https://img.shields.io/badge/Souify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://github.com/Souifyd" target"blank_"><img src="https://img.shields.io/badge/Souify%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-## 📈 Github Stats
-<div align="center">
+
 
 
 <p align="center">
