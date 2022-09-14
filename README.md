@@ -8,3 +8,4 @@
    <a href="https://github.com/Souifyd" target"blank_"><img src="https://img.shields.io/badge/Souify%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <div align="center">
+<img width="75%" src="https://spotify-readme-badge.vercel.app/api/now-playing" />
