@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=barbarbar338&bg_color=141321&color=FF9DD9&line=FF9DD9&point=9dffc3" />
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Souify&theme=radical" /> 
     <img width="100%" src="https://raw.githubusercontent.com/barbarbar338/barbarbar338/output/github-contribution-grid-snake-dark.svg" />     
 </p>
