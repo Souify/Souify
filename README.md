@@ -7,8 +7,9 @@
    <a href="https://sptfy.com/Souify" target"blank_"><img src="https://img.shields.io/badge/Souify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://github.com/Souifyd" target"blank_"><img src="https://img.shields.io/badge/Souify%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-<div align="center">
 ## 📈 Github Stats
+<div align="center">
+
 
 <p align="center">
     <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Souify&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true">
