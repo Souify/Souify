@@ -8,13 +8,3 @@
    <a href="https://github.com/Souifyd" target"blank_"><img src="https://img.shields.io/badge/Souify%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-
-
-<p align="center">
-   
-</p>
-
-<p align="center">
-  
-    <img width="100%" src="https://raw.githubusercontent.com/Souify/Souify/output/github-contribution-grid-snake-dark.svg" />     
-</p>
