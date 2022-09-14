@@ -9,6 +9,5 @@
 </p>
 
 <p align="center">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Souify&theme=radical" /> 
-    <img width="100%" src="https://raw.githubusercontent.com/barbarbar338/barbarbar338/output/github-contribution-grid-snake-dark.svg" />     
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Souify&theme=radical" />   
 </p>
